@@ -1,3 +1,15 @@
 body {
-    background-image: url(../img/pattern.jpg);
+    background-image: url(../img/pattern.jpg); /*membuat background secara menyeluruh*/
+}
+header {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+ul {
+    list-style: none; /*menghilangkan bullet*/
+}
+li {
+    display: inline; /*membuat menu sejajar*/
+    margin: 5px; /*memberi jarak*/
 }
