@@ -13,3 +13,6 @@ li {
     display: inline; /*membuat menu sejajar*/
     margin: 5px; /*memberi jarak*/
 }
+a {
+    text-decoration: none; /*menghilangkan garis bawah pada text*/
+}
